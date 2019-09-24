@@ -1,0 +1,26 @@
+[
+    {
+        "role":".Net Developer Intern",
+        "company":"ThankQ Solutions Pty Ltd",
+        "summary":"Full time internship. Built C# and .NET API Controllers and Models. Building Front end Design using HTML5/CSS. Implementing File Uploader, Validation, API calls using jQuery. Setting up Automated systems using shell scripts. Creating Unit Test after developing API features. Checking for Compatibility Issues using Renorex and Browser Stack. Creating backend SQL database structures for web servers. JIRA software for following Agile Software Development. Involved in QA and Testing of various projects. Collaborating with Australian Museum and Sydney Jewish Museum Clients. Sample work - https://sydneyjewishmuseum.com.au/booking/.",
+        "range":"October 2017 - April 2018"
+    },
+    {
+        "role":"Junior Developer Intern",
+        "company":"NewsMaven",
+        "summary":"Full time internship, writing code to automated testing (Herald Son, Tone deaf), Worked on Node.js JavaScript to create product importer using .csv files, Mongo dB database to implement queries in JavaScript of automated systems, Redis Server. Developed professional websites for my company and Performing QA & performance testing of System and Website (Browser Stack) using industry standard tools in all platforms. Fixing bugs in the code base using node inspector and visual studio code.",
+        "range":"January 2016 - June 2016"
+    },
+    {
+        "role":"Web Developer and Quality assurance Inspector",
+        "company":"Dsgnlb Design Lab",
+        "summary":"Working as a casual web developer and quality assurance inspector, I made several websites for my clients, fixed malware affected sites, created professional emails for my staff, created checklists for designers and ensure that developers review their work before sending it to clients.",
+        "range":"July 2015 - September 2017"
+    },
+    {
+        "role":"Customer Service Agent",
+        "company":"Dan Murphy's Surry Hills",
+        "summary":"Customer Support Agent. Managing Customer’s account details, delivery, placing online orders, processing refunds, store management across Australia. Managing events, creating professional email and invoice creating and collaborating with management team.",
+        "range":"September 2018 - December 2018"
+    }
+]

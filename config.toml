@@ -1,0 +1,45 @@
+baseURL = "https://VishalUniyal.gitlab.io"
+languageCode = "en-us"
+title = "Vishal Uniyal"
+theme = "hugo-resume"
+
+[params]
+    firstName = "Vishal"
+    lastName = "Uniyal"
+    address = "10-12 Boundary Road, Darlington"
+    phone = "+61 411 xxx 870"
+    contactNote = "Junior Developer Engineer"
+    profileImage = "img/TechChat.jpg"
+    email = "vishal.uniyal@student.uts.edu.au"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+    showBlog = true
+    showQr = false
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/vishal-uniyal-630632117/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/VishalUniyal"
+
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/vishal.uniyal"
+
+[[params.handles]]
+    name = "Google"
+    link = "vishal.uniyal@student.uts.edu.au"
+    
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Vishal Uniyal</title>
+    <link>https://VishalUniyal.gitlab.io/</link>
+    <description>Recent content in Home on Vishal Uniyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate>
+    
+	<atom:link href="https://VishalUniyal.gitlab.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://VishalUniyal.gitlab.io/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Week 2 Deliverable: Reflection</title>
+      <link>https://VishalUniyal.gitlab.io/blog/reflectionblog/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/blog/reflectionblog/</guid>
+      <description>Introduction Week 2 has been a very interesting week where I went deeper into cyber security knowledge base. It had been a great experience with the subject so far, I had been involved in fixing my website, working on challenges on PentesterLab, Juice-shop, Hackthebox.eu, writing and researching blogs such as hackerOne, BugsCrowd and working out the real life issues with the security in a company&amp;rsquo;s online network and the various ways it can be exploited.</description>
+    </item>
+    
+    <item>
+      <title>Week 2 HomeWork 2 : Problem Statement on Web-application Security</title>
+      <link>https://VishalUniyal.gitlab.io/blog/week2friday/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/blog/week2friday/</guid>
+      <description>OWASP XSS Introduction Web applications are susceptible to attacks that may result in exposure or modification of sensitive data, or impact on availability of services to authorized users. Application testing is conducted to identify security flaws introduced in the design, implementation or deployment of an application. Developers and application administrators must identify functions that are critical to security and test those functions to verify correct operation.
+Problem Statement #1 - Cross Site Scripting (XSS) Cross Site Scripting (XSS) is a fairly widespread input sanitization failure (essentially a special case of common mistake #1).</description>
+    </item>
+    
+    <item>
+      <title>Week 3 Reflection: Problem Statement on Web-application Security</title>
+      <link>https://VishalUniyal.gitlab.io/blog/week3blog/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/blog/week3blog/</guid>
+      <description>&amp;lt;&amp;gt;&amp;lt;&amp;gt;</description>
+    </item>
+    
+    <item>
+      <title>Week 2 : Ethical Hacking &amp; Bug Bounties</title>
+      <link>https://VishalUniyal.gitlab.io/blog/week1blog/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/blog/week1blog/</guid>
+      <description>Ethical hacking and bug bounties are becomming popular these days, and they are getting paid well for this job. Professtional Ethical Hackers working for big organisations are responsible to test break into the company and systems and develop reports to fix these issue. Where as Bug Bounty hunters are individuals or group of people who find ways to break into company&amp;rsquo;s network and report it to the company they hacked, where they get paid as Bounty.</description>
+    </item>
+    
+    <item>
+      <title>Week 1 : SUMMER STUDIOS CYBER SECURITY: AN OFFENSIVE MINDSET</title>
+      <link>https://VishalUniyal.gitlab.io/blog/week2blog/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/blog/week2blog/</guid>
+      <description>Experience I am a final year International Student of Bachelors of Engineering in ICT and Software Engineering at University of Technology Sydney (UTS). I am in a five-year Engineering Degree programme to include Diploma in Engineering Practice. As a student I am still finding my career &#34;End Goal&#34;, and I like familiarising myself with multiple disciplines of computer Software and Security.  I have experience of working for software companies as an Application/Website Developer and Quality Assurance - Internship.</description>
+    </item>
+    
+    <item>
+      <title>Organically DevOps: Building Quality and Security into the Software Supply Chain at Liberty Mutual</title>
+      <link>https://VishalUniyal.gitlab.io/publications/alldaydevops/</link>
+      <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/publications/alldaydevops/</guid>
+      <description>This talk looked at Liberty Mutual’s transformation to Continuous Integration, Continuous Delivery, and DevOps. For a large, heavily regulated industry, this task can not only be daunting, but viewed by many as impossible. Often, organizations try to reduce the friction through micro-fixes, but Eddie’s team asked how to change the culture to reduce the friction and concluded with the following final points:
+ Don’t mandate DevOps. Give employees the chance to master their discipline with examples to set and follow.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://VishalUniyal.gitlab.io/projects/contributions/shields-docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://VishalUniyal.gitlab.io/projects/contributions/schema-org/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>BOSH release for Bamboo &amp; Remote Agents</title>
+      <link>https://VishalUniyal.gitlab.io/projects/creations/bosh-agents/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/projects/creations/bosh-agents/</guid>
+      <description>BOSH (Bosh Outer SHell) &amp;ldquo;&amp;hellip; is an open source tool for release engineering, deployment, lifecycle management, and monitoring of distributed systems.&amp;rdquo; And it&amp;rsquo;s amazingly powerful. This examples uses BOSH to provision an Alassian vendor app running on JDK along with the support Postgres database and agents to support it. The releases manages the health of services and will automatically provision, start/stop processes across the various services.</description>
+    </item>
+    
+    <item>
+      <title>Atlassian Marketplace Plugins</title>
+      <link>https://VishalUniyal.gitlab.io/projects/creations/marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/projects/creations/marketplace/</guid>
+      <description>Multiple plugins used by thousands of teams that provide enhanced functionality of Atlassian’s core products (primarily JIRA and Bamboo) to enrich CI/CD capabilities, DevOps automation, or productivity. Functionality spans user interface, web services and persistence.</description>
+    </item>
+    
+    <item>
+      <title>Docker image for Bitbucket CI/CD Pipelines  &#34;shipit&#34;</title>
+      <link>https://VishalUniyal.gitlab.io/projects/creations/docker-marketplace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/projects/creations/docker-marketplace/</guid>
+      <description>Provides required dependencies and additional utilities to simplify and codify the process of building, testing and delivering Atlassian plugins all the way to the live marketplace. Executes integration/AUT level tests against all stated compatible versions for the productUploads generated artifact to Atlassian marketplaceProvides corresponding metadata indicating version, release notes, and compatibility</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://VishalUniyal.gitlab.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://VishalUniyal.gitlab.io/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;]  Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
